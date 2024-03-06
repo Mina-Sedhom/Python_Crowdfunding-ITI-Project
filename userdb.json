@@ -1,0 +1,50 @@
+[
+  {
+    "user_id": 1701176815,
+    "f_name": "mina",
+    "l_name": "ashraf",
+    "email": "mina@gmail.com",
+    "password": "123456",
+    "phone": "201234567891"
+  },
+  {
+    "user_id": 1701177027,
+    "f_name": "farag",
+    "l_name": "osama",
+    "email": "farag@gmail.com",
+    "password": "123456",
+    "phone": "201234567891"
+  },
+  {
+    "user_id": 1701208711,
+    "f_name": "mars",
+    "l_name": "emad",
+    "email": "mars@gmail.com",
+    "password": "987654",
+    "phone": "201234567891"
+  },
+  {
+    "user_id": 1701230358,
+    "f_name": "omar",
+    "l_name": "tarek",
+    "email": "omar@gmail.com",
+    "password": "456",
+    "phone": "201234567899"
+  },
+  {
+    "user_id": 1701710195,
+    "f_name": "karim",
+    "l_name": "gamal",
+    "email": "karim@gmail.com",
+    "password": "753",
+    "phone": "+209876541233"
+  },
+  {
+    "user_id": 1701787550,
+    "f_name": "test",
+    "l_name": "tttt",
+    "email": "ffh@gmail.com",
+    "password": "987",
+    "phone": "+209876541230"
+  }
+]
